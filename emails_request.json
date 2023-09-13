@@ -1,0 +1,42 @@
+{
+    "url": "https://appserver-preprod.rpalabsinternal.com/analytics/operations/64f863f7ac98c227bf3253d6/emails",
+    "raw_url": "https://appserver-preprod.rpalabsinternal.com/analytics/operations/64f863f7ac98c227bf3253d6/emails?status=all&product=&from=&to=&consignee=&carrier=&file_type=&limit=14&page=1&instance_id=64ff666dfaa29a52acc18141&instance_ref_id=",
+    "method": "get",
+    "cookies": {
+        "_ga": "GA1.1.1619832458.1691389910",
+        "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI6OmZmZmY6MTI3LjAuMC4xIiwidXNlcl9pZCI6ImY0NjllNGJiLTdhY2MtNGUzOS04YTlmLTA5OTVkZDk0OTY1ZSIsImlhdCI6MTY5NDU4MTgzNSwiZXhwIjoxNjk0NjY4MjM1fQ.HyLk1eDdOgrxufaC4a_hq8YFvzPfdocS7-yH6zp6Z5Y",
+        "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI6OmZmZmY6MTI3LjAuMC4xIiwidXNlcl9pZCI6ImY0NjllNGJiLTdhY2MtNGUzOS04YTlmLTA5OTVkZDk0OTY1ZSIsImlhdCI6MTY5NDU4MTgzNSwiZXhwIjoxNjk0NTg5MDM1fQ.KGbOHvjUCWOBUKel6zuXiTpxypshFb5Vd7ecdA8bXbI",
+        "_ga_SNPMQDCQ8V": "GS1.1.1694581828.55.1.1694583317.0.0.0"
+    },
+    "headers": {
+        "authority": "appserver-preprod.rpalabsinternal.com",
+        "accept": "application/json, text/plain, */*",
+        "accept-language": "en-US,en;q=0.9",
+        "content-type": "application/json",
+        "cookie": "_ga=GA1.1.1619832458.1691389910; refresh_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI6OmZmZmY6MTI3LjAuMC4xIiwidXNlcl9pZCI6ImY0NjllNGJiLTdhY2MtNGUzOS04YTlmLTA5OTVkZDk0OTY1ZSIsImlhdCI6MTY5NDU4MTgzNSwiZXhwIjoxNjk0NjY4MjM1fQ.HyLk1eDdOgrxufaC4a_hq8YFvzPfdocS7-yH6zp6Z5Y; access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI6OmZmZmY6MTI3LjAuMC4xIiwidXNlcl9pZCI6ImY0NjllNGJiLTdhY2MtNGUzOS04YTlmLTA5OTVkZDk0OTY1ZSIsImlhdCI6MTY5NDU4MTgzNSwiZXhwIjoxNjk0NTg5MDM1fQ.KGbOHvjUCWOBUKel6zuXiTpxypshFb5Vd7ecdA8bXbI; _ga_SNPMQDCQ8V=GS1.1.1694581828.55.1.1694583317.0.0.0",
+        "credentials": "eyJuYW1lIjoiVmFuZ3VhcmQgRGFzaGJvYXJkIiwicm9sZSI6ImN1c3RvbWVyX2FkbWluIiwidXNlcmlkIjoiZjQ2OWU0YmItN2FjYy00ZTM5LThhOWYtMDk5NWRkOTQ5NjVlIiwiYnVzaW5lc3NpZCI6Ijk4MzNmY2UzLWZhY2YtNDY2ZS04ODFiLTUyMjBlMDI4MTM0OSJ9",
+        "origin": "https://preanalyst.rpalabsinternal.com",
+        "referer": "https://preanalyst.rpalabsinternal.com/",
+        "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Linux\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "same-site",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+    },
+    "queries": {
+        "status": "all",
+        "product": "",
+        "from": "",
+        "to": "",
+        "consignee": "",
+        "carrier": "",
+        "file_type": "",
+        "limit": "25",
+        "page": "",
+        "instance_id": "64ff666dfaa29a52acc18141",
+        "instance_ref_id": ""
+    },
+    "compressed": true
+}
