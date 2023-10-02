@@ -1,29 +1,27 @@
 {
-    "url": "https://appserver-preprod.rpalabsinternal.com/analytics/operations/64f863f7ac98c227bf3253d6/emails",
-    "raw_url": "https://appserver-preprod.rpalabsinternal.com/analytics/operations/64f863f7ac98c227bf3253d6/emails?status=all&product=&from=&to=&consignee=&carrier=&file_type=&limit=14&page=1&instance_id=64ff666dfaa29a52acc18141&instance_ref_id=",
+    "url": "https://appserver.app.rippey.ai/analytics/operations/651119605b93da7fe4e2f41b/emails",
+    "raw_url": "https://appserver.app.rippey.ai/analytics/operations/651119605b93da7fe4e2f41b/emails?status=all&product=&from=&to=&consignee=&carrier=&file_type=&limit=14&page=1&instance_id=&instance_ref_id=",
     "method": "get",
     "cookies": {
-        "_ga": "GA1.1.1619832458.1691389910",
-        "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI6OmZmZmY6MTI3LjAuMC4xIiwidXNlcl9pZCI6ImY0NjllNGJiLTdhY2MtNGUzOS04YTlmLTA5OTVkZDk0OTY1ZSIsImlhdCI6MTY5NDU4MTgzNSwiZXhwIjoxNjk0NjY4MjM1fQ.HyLk1eDdOgrxufaC4a_hq8YFvzPfdocS7-yH6zp6Z5Y",
-        "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI6OmZmZmY6MTI3LjAuMC4xIiwidXNlcl9pZCI6ImY0NjllNGJiLTdhY2MtNGUzOS04YTlmLTA5OTVkZDk0OTY1ZSIsImlhdCI6MTY5NDU4MTgzNSwiZXhwIjoxNjk0NTg5MDM1fQ.KGbOHvjUCWOBUKel6zuXiTpxypshFb5Vd7ecdA8bXbI",
-        "_ga_SNPMQDCQ8V": "GS1.1.1694581828.55.1.1694583317.0.0.0"
+        "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI6OmZmZmY6MTI3LjAuMC4xIiwidXNlcl9pZCI6IjVmOTYyM2QxLTBlZmYtNDY5MC04MmVlLWQyMTI0MGQ1N2FlNyIsImlhdCI6MTY5NjIzMTcyNSwiZXhwIjoxNjk2MzE4MTI1fQ.3ejmvXwiLvuJcjeb_ZyqJTkx3RTBqJ44lXws-B9fzSQ",
+        "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI6OmZmZmY6MTI3LjAuMC4xIiwidXNlcl9pZCI6IjVmOTYyM2QxLTBlZmYtNDY5MC04MmVlLWQyMTI0MGQ1N2FlNyIsImlhdCI6MTY5NjIzMTcyNSwiZXhwIjoxNjk2MjM1MzI1fQ.0-8Wwv7N_WhMzyyOgIYQvnysjkovuSTTmG8ou07PgDY"
     },
     "headers": {
-        "authority": "appserver-preprod.rpalabsinternal.com",
+        "authority": "appserver.app.rippey.ai",
         "accept": "application/json, text/plain, */*",
         "accept-language": "en-US,en;q=0.9",
         "content-type": "application/json",
-        "cookie": "_ga=GA1.1.1619832458.1691389910; refresh_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI6OmZmZmY6MTI3LjAuMC4xIiwidXNlcl9pZCI6ImY0NjllNGJiLTdhY2MtNGUzOS04YTlmLTA5OTVkZDk0OTY1ZSIsImlhdCI6MTY5NDU4MTgzNSwiZXhwIjoxNjk0NjY4MjM1fQ.HyLk1eDdOgrxufaC4a_hq8YFvzPfdocS7-yH6zp6Z5Y; access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI6OmZmZmY6MTI3LjAuMC4xIiwidXNlcl9pZCI6ImY0NjllNGJiLTdhY2MtNGUzOS04YTlmLTA5OTVkZDk0OTY1ZSIsImlhdCI6MTY5NDU4MTgzNSwiZXhwIjoxNjk0NTg5MDM1fQ.KGbOHvjUCWOBUKel6zuXiTpxypshFb5Vd7ecdA8bXbI; _ga_SNPMQDCQ8V=GS1.1.1694581828.55.1.1694583317.0.0.0",
-        "credentials": "eyJuYW1lIjoiVmFuZ3VhcmQgRGFzaGJvYXJkIiwicm9sZSI6ImN1c3RvbWVyX2FkbWluIiwidXNlcmlkIjoiZjQ2OWU0YmItN2FjYy00ZTM5LThhOWYtMDk5NWRkOTQ5NjVlIiwiYnVzaW5lc3NpZCI6Ijk4MzNmY2UzLWZhY2YtNDY2ZS04ODFiLTUyMjBlMDI4MTM0OSJ9",
-        "origin": "https://preanalyst.rpalabsinternal.com",
-        "referer": "https://preanalyst.rpalabsinternal.com/",
-        "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+        "cookie": "refresh_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI6OmZmZmY6MTI3LjAuMC4xIiwidXNlcl9pZCI6IjVmOTYyM2QxLTBlZmYtNDY5MC04MmVlLWQyMTI0MGQ1N2FlNyIsImlhdCI6MTY5NjIzMTcyNSwiZXhwIjoxNjk2MzE4MTI1fQ.3ejmvXwiLvuJcjeb_ZyqJTkx3RTBqJ44lXws-B9fzSQ; access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI6OmZmZmY6MTI3LjAuMC4xIiwidXNlcl9pZCI6IjVmOTYyM2QxLTBlZmYtNDY5MC04MmVlLWQyMTI0MGQ1N2FlNyIsImlhdCI6MTY5NjIzMTcyNSwiZXhwIjoxNjk2MjM1MzI1fQ.0-8Wwv7N_WhMzyyOgIYQvnysjkovuSTTmG8ou07PgDY",
+        "credentials": "eyJuYW1lIjoidmFuZ3VhcmQgcHJvZCIsInJvbGUiOiJjdXN0b21lcl9hZG1pbiIsInVzZXJpZCI6IjVmOTYyM2QxLTBlZmYtNDY5MC04MmVlLWQyMTI0MGQ1N2FlNyIsImJ1c2luZXNzaWQiOiJkYzJiNmJlMS0xOGQ5LTRiMTMtOTU4Ni1lYWI1YzYwYWE1Y2QifQ==",
+        "origin": "https://analystdev.rpalabs.io",
+        "referer": "https://analystdev.rpalabs.io/",
+        "sec-ch-ua": "\"Google Chrome\";v=\"117\", \"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"117\"",
         "sec-ch-ua-mobile": "?0",
         "sec-ch-ua-platform": "\"Linux\"",
         "sec-fetch-dest": "empty",
         "sec-fetch-mode": "cors",
-        "sec-fetch-site": "same-site",
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+        "sec-fetch-site": "cross-site",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
     },
     "queries": {
         "status": "all",
@@ -33,9 +31,9 @@
         "consignee": "",
         "carrier": "",
         "file_type": "",
-        "limit": "25",
-        "page": "",
-        "instance_id": "64ff666dfaa29a52acc18141",
+        "limit": "18",
+        "page": "1",
+        "instance_id": "",
         "instance_ref_id": ""
     },
     "compressed": true
